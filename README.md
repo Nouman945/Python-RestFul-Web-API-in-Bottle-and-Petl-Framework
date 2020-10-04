@@ -14,8 +14,8 @@ Python script file with the name ‘data_integration.py’ correctly merge  the 
 ## Web_Service.py File
 
 web_service.py script provides two RESTFUL WEB services. 
-..* Get services by postcode
-..* Get Clinics by Service name
+..*Get services by postcode
+..*Get Clinics by Service name
 
 
 
